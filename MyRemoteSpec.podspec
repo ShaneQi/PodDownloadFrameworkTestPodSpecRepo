@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|  
-	s.name                = 'MySpec'
+	s.name                = 'MyRemoteSpec'
 	s.version             = '0.0.1'
-	s.summary             = 'My Pod Spec'
+	s.summary             = 'My Remote Pod Spec'
 	s.author              = { 'Name' => 'qizengtai@gmail.com' }
 	s.homepage            = 'https://github.com/'
 	s.license             = 'MIT'
